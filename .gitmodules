@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "MitoHEAR"]
+	path = MitoHEAR
+	url = https://github.com/gabrielelubatti/mitohear
+	shallow = true
+	registered = true
