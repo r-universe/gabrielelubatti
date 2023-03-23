@@ -3,8 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CIARA"]
+	path = CIARA
+	url = https://github.com/cran/CIARA
+	shallow = true
+	registered = true
 [submodule "MitoHEAR"]
 	path = MitoHEAR
 	url = https://github.com/gabrielelubatti/mitohear
+	shallow = true
+	registered = true
+[submodule "WOTPLY"]
+	path = WOTPLY
+	url = https://github.com/cran/WOTPLY
 	shallow = true
 	registered = true
