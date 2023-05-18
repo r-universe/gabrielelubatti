@@ -13,6 +13,11 @@
 	url = https://github.com/gabrielelubatti/mitohear
 	shallow = true
 	registered = true
+[submodule "SCOPRO"]
+	path = SCOPRO
+	url = https://github.com/cran/SCOPRO
+	shallow = true
+	registered = true
 [submodule "WOTPLY"]
 	path = WOTPLY
 	url = https://github.com/cran/WOTPLY
